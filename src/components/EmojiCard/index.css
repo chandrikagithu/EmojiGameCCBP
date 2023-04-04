@@ -1,0 +1,19 @@
+/* Write your code here. */
+.each-logo-container {
+  background-color: #ffffff33;
+  border-radius: 18px;
+  border: 2px solid #ffffff30;
+  width: 160px;
+  height: 160px;
+  margin: 15px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  outline: none;
+}
+.emoji-image {
+  width: 80px;
+  height: 80px;
+}
